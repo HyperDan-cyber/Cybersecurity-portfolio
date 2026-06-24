@@ -63,9 +63,11 @@ Network security exercise covering TCP/IP, DNS, HTTP/HTTPS concepts, and traffic
 [View Project](./network-analysis/wireshark-traffic-analysis.md)
 
 
-### Vulnerability Assessment Report
+### SIEM Alert Investigation: Suspicious Login Activity
 
-Coming soon.
+A simulated SIEM investigation exercise focused on security alert review, event analysis, threat detection concepts, and incident response documentation using Splunk fundamentals.
+
+[View Project](./soc-investigations/splunk-alert-analysis.md)
 
 ---
 
