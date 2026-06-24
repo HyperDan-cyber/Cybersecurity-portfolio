@@ -117,3 +117,13 @@ Future additions to this project:
 - Screenshots of Wireshark investigations
 - Identification of suspicious traffic patterns
 - Malware traffic analysis exercises
+
+---
+
+# Personal Reflection
+
+This project strengthened my understanding of how network communication occurs and why traffic analysis is important in cybersecurity operations.
+
+Through reviewing networking concepts such as TCP/IP, DNS, and HTTP/HTTPS, I learned how analysts can use packet-level information to understand normal communication patterns and identify unusual activity.
+
+This exercise also highlighted the importance of combining technical analysis with clear documentation, as SOC analysts rely on accurate observations and reporting when investigating security events.  
